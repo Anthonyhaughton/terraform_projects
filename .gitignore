@@ -1,0 +1,6 @@
+.idea
+*.exe
+*.hcl
+.terraform
+.vscode
+.gitignore
